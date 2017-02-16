@@ -1,0 +1,14 @@
+Appium-Python-Client==0.24
+future==0.16.0
+lxml==3.7.2
+namedlist==1.7
+py==1.4.32
+PyHamcrest==1.9.0
+pytest==2.9.0
+pytest-allure-adaptor==1.7.6
+requests==2.12.5
+selenium==3.0.2
+six==1.10.0
+waiting==1.4.0
+webdriverwrapper==2.4.0
+webium==1.2.1
